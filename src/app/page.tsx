@@ -116,21 +116,21 @@ export default function Home() {
             <Image
               className="mx-40"
               src="/images/icon1.png"
-              alt="icon images"
+              alt="icon1 images"
               width={65}
               height={56}
             />
             <Image
               className="mx-40"
               src="/images/icon2.png"
-              alt="icon images"
+              alt="icon2 images"
               width={65}
               height={56}
             />
             <Image
               className="mx-40"
               src="/images/icon3.png"
-              alt="icon images"
+              alt="icon3 images"
               width={65}
               height={56}
             />
@@ -270,7 +270,7 @@ export default function Home() {
             <Image
               className="ml-20"
               src="/images/Pana.png"
-              alt="Logo images"
+              alt="pana images"
               width={441.53}
               height={433.4}
             />
