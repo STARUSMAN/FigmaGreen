@@ -115,21 +115,21 @@ export default function Home() {
           <div className="flex flex-wrap justify-between">
             <Image
               className="mx-40"
-              src="/images/icon1.png"
+              src="/images/icon1.webp"
               alt="icon1 images"
               width={65}
               height={56}
             />
             <Image
               className="mx-40"
-              src="/images/icon2.png"
+              src="/images/icon2.webp"
               alt="icon2 images"
               width={65}
               height={56}
             />
             <Image
               className="mx-40"
-              src="/images/icon3.png"
+              src="/images/icon3.webp"
               alt="icon3 images"
               width={65}
               height={56}
