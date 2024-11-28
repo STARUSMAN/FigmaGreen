@@ -269,7 +269,7 @@ export default function Home() {
           <div className="md:w-1/2 w-full">
             <Image
               className="ml-20"
-              src="/images/touch.png"
+              src="/images/touch.webp"
               alt="touch images"
               width={441.53}
               height={433.4}
