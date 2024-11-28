@@ -269,8 +269,8 @@ export default function Home() {
           <div className="md:w-1/2 w-full">
             <Image
               className="ml-20"
-              src="/images/Pana.png"
-              alt="pana images"
+              src="/images/touch.png"
+              alt="touch images"
               width={441.53}
               height={433.4}
             />
@@ -394,7 +394,9 @@ export default function Home() {
           </h1>
           <p className="ml-80 w-[628] text-[#717171] mb-8">
             The Nexcent blog is the best place to read about the latest
-            membership insights & trends and more. trends and more. See who;s joining the community&read about how our communityare increasing their membership income and lot;s more.
+            membership insights & trends and more. trends and more. See who;s
+            joining the community&read about how our communityare increasing
+            their membership income and lot;s more.
           </p>
           <Image
             className="mx-auto"
