@@ -392,7 +392,7 @@ export default function Home() {
           <h1 className="text-center text-3xl font-bold text-[#4D4D4D] mb-4">
             Caring is the new marketing
           </h1>
-          <p className="ml-80 w-[628] text-[#717171] mb-8">
+          <p className="text-center mx-auto w-[628] text-[#717171] mb-8">
             The Nexcent blog is the best place to read about the latest
             membership insights & trends and more. trends and more. See who;s
             joining the community&read about how our communityare increasing
